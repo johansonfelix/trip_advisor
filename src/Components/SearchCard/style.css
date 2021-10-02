@@ -1,0 +1,36 @@
+.line {
+  position: absolute;
+  bottom: 0;
+  transition: left 0.5s ease-in-out, width 0.5s 0.10s;
+  height: 5px;
+  background-color: #FF5A5A;
+  left: 0;
+  width: 142px;
+  pointer-events: none;
+
+}
+
+.buttonText:hover {
+  color: white;
+}
+
+
+.dateInput .MuiOutlinedInput-root {
+  border-radius: 0;
+  width: 150px;
+  height: 50px;
+  margin:0;
+}
+
+.travellers  .MuiOutlinedInput-input {
+  height: 50px;
+  border-radius: 0;
+}
+.MuiOutlinedInput-input {
+  height: 50px;
+  border-radius: 0;
+}
+
+input[type="number"] {
+  border-radius: "0" !important;
+}
