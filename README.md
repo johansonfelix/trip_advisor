@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/johansonfelix/tripvisor">
-    <img src="public/favicon.ico" alt="Logo">
+    <img src="public/favicon.ico" alt="Logo" width="80">
   </a>
 
   <h1 align="center">Tripvisor</h1>
